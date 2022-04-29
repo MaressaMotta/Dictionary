@@ -16,3 +16,7 @@ color: #a591d8;
 .Phonetic{
    margin: 20px 0;
 }
+.Phonetic .text {
+    opacity: 0.5;
+    font-weight: bold;
+}
