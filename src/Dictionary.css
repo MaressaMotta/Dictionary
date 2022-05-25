@@ -6,7 +6,7 @@ box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
 margin: 20px 0;
 }
 .Dictionary input{
-    width: 100%;
+    width: 30%;
     padding: 6px 4px;
     border-radius: 6px;
     border: 1px solid #ddd ;
